@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello! 👋 I am William Collier
 
 - I am a Computer Science Student at Lancaster University.
 - As I graduate this summer, I am looking for a job!. 
