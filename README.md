@@ -1,9 +1,7 @@
 # Hello! 👋 I am William Collier
 
-- I am a Computer Science Student at Lancaster University.
-- As I graduate this summer, I am looking for a job!
-- [My LinkedIn Account](https://www.linkedin.com/in/william-l-collier/).
-- Any prospective employers who are looking for examples of larger projects, please contact me so that I can send you the code. The code is coursework which I am not allowed share code on a public repository.
+- [My site!](https://wcollier.github.io)
+- [My LinkedIn Account](https://www.linkedin.com/in/william-l-collier/)
 
 🐧
 
